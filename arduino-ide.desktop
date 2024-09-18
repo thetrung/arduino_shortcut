@@ -6,5 +6,5 @@ Name=Arduino IDE
 GenericName=Integrated Development Environment for Arduino
 Comment=Integrated Development Environment for Arduino
 Icon=/home/$USER/arduino-ide_2.3.2_Linux_64bit/resources/app/resources/icons/512x512.png
-Exec="/home/$USER/arduino-ide_2.3.2_Linux_64bit/arduino-ide"
+Exec="/home/$USER/arduino-ide_2.3.2_Linux_64bit/arduino-ide --no-sandbox"
 Categories=Development;
